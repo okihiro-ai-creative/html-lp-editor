@@ -1,6 +1,10 @@
 # html-lp-editor スキル技術評価メモ
 **日付：** 2026-05-04
 
+> [!CAUTION]
+> **このメモは2026-05-04時点の評価であり、SKILL.md v1.2（2026-05-15更新）で下記「一点だけ注意点」は既に解決済み。**
+> Layer 2は`overflow-x: hidden`から`overflow-x: clip`へ変更されており、sticky問題は発生しない。以下は historical な記録として残す。
+
 ---
 
 ## 総評
