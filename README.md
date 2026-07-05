@@ -1,6 +1,6 @@
 # HTML LP Editor
 
-Created by OKIHIRO — AI自動化ワークフローを100個以上開発・運用しています。
+Created by OKIHIRO — AI自動化ワークフローを130個以上開発・運用しています。
 
 HTMLランディングページやWebページをAIエージェントに安全に修正させるための編集プロトコルです。
 
